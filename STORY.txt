@@ -1,0 +1,7 @@
+This is my first actual project as a CS student.
+Initial Idea: Warehouse inventory tracker using PSQL and Python + FastAPI. No plan for anything visual yet.
+
+I'll use this to keep track of my progress:
+Jan 8th: Want to set up PSQL, and try to touch Python at least a little
+- I came up with this whole brilliant idea
+- wh_root : password
