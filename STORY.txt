@@ -1,7 +1,14 @@
 This is my first actual project as a CS student.
 Initial Idea: Warehouse inventory tracker using PSQL and Python + FastAPI. No plan for anything visual yet.
 
+sudo systemctl start postgresql
+ssh -T git@github.com
+git pull --rebase
+psql -U warehouse_user -d warehouse_db -h localhost -f db/schema.sql
+
+
 I'll use this to keep track of my progress:
 Jan 8th: Want to set up PSQL, and try to touch Python at least a little
 - I came up with this whole brilliant idea
 - wh_root : password
+
